@@ -1,8 +1,7 @@
 # Create your own adventure  
-## Your alarm goes off  
----  
-###What do you do?  
+ ---
+Click [here](alarm.md) to start your own adventure  
 
-[Get ready for school](school.md)  
+Click [here](https://docs.google.com/drawings/d/1bHwSSoIqMQxHuxvm3kLy2xMuYciWSoKJAXvDNXlElfY/edit) to view the diagram  
 
-[Miss a day and sleep in](miss.md)
+Made by [Senee](github.com/seneec7794) and [Melvin](github.com/melvins1196
