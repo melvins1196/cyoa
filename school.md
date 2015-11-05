@@ -2,5 +2,6 @@
 
 ###What do you do?
 ---  
-[Answer your phone](phone.md)
+[Answer your phone](phone.md)  
+
 [Go to class](class.md)
