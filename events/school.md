@@ -3,6 +3,6 @@
 ####What do you do?  
 ---
 
-[Answer your phone](phone.md)  
+[Answer your phone](events/phone.md)  
 
-[Go to class](class.md)
+[Go to class](events/class.md)
